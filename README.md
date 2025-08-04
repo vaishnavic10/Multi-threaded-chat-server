@@ -1,4 +1,4 @@
-# 🧵 Multi-Threaded Chat Server in Java
+#  Multi-Threaded Chat Server 
 
 This is a simple **Multi-Threaded Chat Application** built using Java Sockets. It allows multiple clients to connect and chat with each other simultaneously via a central server.
 
